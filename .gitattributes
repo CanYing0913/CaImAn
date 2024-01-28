@@ -1,3 +1,4 @@
 exe.win-amd64-3.8.msi filter=lfs diff=lfs merge=lfs -text
 install.msi filter=lfs diff=lfs merge=lfs -text
 install.dmg filter=lfs diff=lfs merge=lfs -text
+CalciumZero-0.1-x86_64.AppImage filter=lfs diff=lfs merge=lfs -text
